@@ -74,10 +74,6 @@ I plan to build on this foundation with:
 
 🛰️ Integration with local crisis resource databases
 
-👨‍💻 Author
-Meena
-AI & NLP Enthusiast | Public Health Advocate
-🔗 LinkedIn | YouTube | ✉️ somumeenareddy@gmail.com
 
 📜 License
 This project is licensed under the MIT License.
